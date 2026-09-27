@@ -66,3 +66,5 @@ The order total is calculated from the current grocery item prices and requested
 
 ## Notes
 This is a basic CRUD assignment. Inventory is recorded, but stock is not deducted when an order is placed.
+# online_grocery_ordermanagement
+Spring Boot REST API for managing customers, grocery items, and orders using Spring Data JPA and MySQL.
